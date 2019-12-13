@@ -163,18 +163,6 @@ namespace TopLiby.Controllers
                 return RedirectToAction("Index");
             }
         }
-        //public ActionResult Delete(int id, IFormCollection collection)
-        //{
-        //    try
-        //    {
-        //        // TODO: Add delete logic here
-
-        //        return RedirectToAction(nameof(Index));
-        //    }
-        //    catch
-        //    {
-        //        return View();
-        //    }
-        //}
+        
     }
 }
